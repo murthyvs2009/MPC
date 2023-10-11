@@ -1,0 +1,20 @@
+.tableContainer{
+max-width: 550px;
+width: 550px;
+
+}
+.stdDetails{
+    font-size: 16px;
+    font-weight: bold;
+    max-width:450px;
+    margin-left:50px;
+    
+}
+.panel-body{
+    font-weight: normal !important;
+}
+.footerCredits{
+    font-size: 10px;
+    margin:0px auto;
+    width:250px;
+}
